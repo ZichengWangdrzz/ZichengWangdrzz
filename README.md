@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zichengwangdrzz&label=Profile%20views&color=0e75b6&style=flat" alt="zichengwangdrzz" /> </p>
 
+<p align="center"> <a href=https://docs.google.com/document/d/1VH9qtxjerH2fdBhA0nr9mlW5SJ7UlbkL/edit>Resume</a>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zichengwangdrzz" alt="zichengwangdrzz" /></a> </p>
 
 - 🔭 I’m currently working on [\](\)
