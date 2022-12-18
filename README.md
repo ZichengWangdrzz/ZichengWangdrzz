@@ -2,7 +2,7 @@
 <h3 align="center">A guy new to CS and GitHub from China, currently taking undergraduate courses in USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zichengwangdrzz&label=Profile%20views&color=0e75b6&style=flat" alt="zichengwangdrzz" /> </p>
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](https://www.linkedin.com/in/zicheng-wang-b07811234/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/Zicheng-Wang/)](https://www.linkedin.com/in/zicheng-wang-b07811234/)
 
 <p align="center"> <a href=https://docs.google.com/document/d/1VH9qtxjerH2fdBhA0nr9mlW5SJ7UlbkL/edit>Resume</a>
 
